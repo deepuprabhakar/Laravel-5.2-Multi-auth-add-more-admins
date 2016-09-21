@@ -1,0 +1,95 @@
+.admin-add-button{
+	min-width: 80px;
+    padding: 3px 0px;
+    border-radius: 3px;
+    margin-top: -4px;
+}
+.list-group-item i.fa{
+	margin-top: 3px;
+}
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {
+    outline: 0;
+    outline-offset: 0;
+}
+span.form-error {
+    font-size: 13px;
+}
+.activity-item i {
+	float: left;
+	margin-top: 0px;
+	font-size: 15px;
+}
+
+div.activity {
+	margin-left: 28px;
+}
+
+div.activity-item {
+	padding: 7px 12px;
+}
+
+#notification-list div.activity-item {
+	border-top: 1px solid #f5f5f5;
+}
+
+#notification-list div.activity-item a {
+	font-weight: 600;
+}
+
+div.activity span {
+	display: block;
+	color: #999;
+	font-size: 11px;
+	line-height: 16px;
+}
+
+#notifications i.fa {
+	font-size: 17px;
+}
+
+.noty_type_error * {
+	font-weight: normal !important;
+}
+
+.noty_type_error a {
+	font-weight: bold !important;
+}
+
+.noty_bar.noty_type_error a, .noty_bar.noty_type_error i {
+	color: #fff
+}
+
+.noty_bar.noty_type_information a {
+	color: #fff;
+	font-weight: bold;
+}
+
+.noty_type_error div.activity span
+{
+	color: #fff
+}
+
+.noty_type_information div.activity span
+{
+	color: #fefefe
+}
+.admin-add-button{
+	padding: 2px 20px;
+    margin-top: -3px;
+    border-radius: 3px;
+}
+.delete-form{
+	display: inline-block;
+}
+.datatable-action{
+	border-radius: 50%;
+	margin-left: 2px;
+	text-align: center;
+	width: 25px;
+	height: 25px;
+	padding: 3px 7px;
+}
+.custom-button{
+	border-radius: 3px;
+    min-width: 100px;
+}
